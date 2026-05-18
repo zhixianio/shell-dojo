@@ -1,0 +1,11 @@
+{
+  "name": "shell-dojo",
+  "version": "0.0.0-placeholder",
+  "description": "Placeholder package for shell-dojo. See https://github.com/zhixianio/shelldojo for the actual project.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhixianio/shell-dojo.git"
+  },
+  "author": "zhixian <hi@zhixian.io>",
+  "license": "MIT"
+}
